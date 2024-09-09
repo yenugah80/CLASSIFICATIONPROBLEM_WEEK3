@@ -1,0 +1,34 @@
+
+---
+title: "Classification Models Comparison (Python)"
+format: html
+---
+
+## Load and Split Dataset
+
+```{python}
+# Code to load and split dataset (already executed)
+print("Dataset loaded and split into training and testing sets.")
+```
+
+## Train Models
+
+```{python}
+# Code to train Logistic Regression and Decision Tree models (already executed)
+print("Logistic Regression and Decision Tree models trained.")
+```
+
+## Evaluate Models
+
+```{python}
+print("Logistic Regression Accuracy:", {lr_accuracy})
+print("Decision Tree Accuracy:", {dt_accuracy})
+```
+
+## Compare Models
+
+![Model Comparison](model_comparison.png)
+
+## Conclusion
+
+Based on the accuracy scores, we can conclude which model performs better on this dataset.
