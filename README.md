@@ -1,6 +1,6 @@
 1. Choose a Dataset
    
-Dataset Selection: For this example, I used a Iris dataset. It’s a well-known dataset that contains information about iris flowers, including features like petal and sepal sizes, and the type of iris (species) each flower belongs to. I’ll use this dataset to build and test our models.
+Dataset Selection: For this activity, I have used a Iris dataset. It’s a well-known dataset that contains information about iris flowers, including features like petal and sepal sizes, and the type of iris (species) each flower belongs to. I’ll use this dataset to build and test our models.
 
 2. Build and Train Models
 Logistic Regression: This model predicts the class by finding the best line that separates different classes.
